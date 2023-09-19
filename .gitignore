@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# TypeScript
+src/**/*.d.ts
+src/**/*.js
+src/**/*.js.map
+!src/**/*.test.js
+!src/**/test.js
