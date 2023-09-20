@@ -32,7 +32,7 @@ const server = http.createServer((request, response) => {
   })
 })
 
-const port = process.env['PORT'] ?? 5409
+const port = 1337
 server.listen(port, () => {
   console.log(`Server listening on port ${port}`)
 })
