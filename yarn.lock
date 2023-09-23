@@ -26,10 +26,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bible-api/bible-api@npm:^0.2.0":
-  version: 0.2.2
-  resolution: "@bible-api/bible-api@npm:0.2.2"
-  checksum: 5827734c5b049ca721b4077dc35b3145ffd788f6cd382d8bf6599b84ae0b181a39e28c0843306da359dc42c3074f99e70a0e30a1f09851d5d4f60371185df973
+"@bible-api/bible-api@npm:^0.4.4":
+  version: 0.4.4
+  resolution: "@bible-api/bible-api@npm:0.4.4"
+  checksum: 7903f84ff91c829d2458823afcf6b6fcaf3e42d9ee4b4924902cc23400652d55f057f0ca1eb8f1fbcf0ede48ac3aa8cab0f970a4d10d170a4ed58cae2e867bc5
   languageName: node
   linkType: hard
 
@@ -53,7 +53,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@bible-api/bible-api": ^0.2.0
+    "@bible-api/bible-api": ^0.4.4
     "@bible-api/bible-api-version-kjv1769": ^1.0.0
     "@bible-api/bible-api-version-tr1624": ^1.0.0
     "@bible-api/bible-api-version-tr1894": ^1.0.0-pre.0.1.2
