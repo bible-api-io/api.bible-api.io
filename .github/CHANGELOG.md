@@ -17,5 +17,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Intial release.
 
-[unreleased]: https://github.com/bible-api-io/bible-api-version-tr1894/compare/latest...HEAD
-[1.0.0]: https://github.com/bible-api-io/bible-api-version-tr1894/compare/v0.0.0...v0.1.0
+[unreleased]: https://github.com/bible-api-io/api.bible-api.io/compare/latest...HEAD
+[1.0.0]: https://github.com/bible-api-io/api.bible-api.io/compare/v0.0.0...v0.1.0
