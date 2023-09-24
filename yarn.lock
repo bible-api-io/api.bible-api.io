@@ -33,6 +33,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@bible-api/bible-api-version-vulgate@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "@bible-api/bible-api-version-vulgate@npm:1.0.0"
+  checksum: f9b2e21914cc1181b35ff6107b22624a2b73fe1c4e6d37db5f1f474a50b91115b4acf5f34e7cacab8b18fd1fbe143b3589b321c8c07e3318faf5310b37dcb30c
+  languageName: node
+  linkType: hard
+
 "@bible-api/bible-api@npm:^0.4.4":
   version: 0.4.4
   resolution: "@bible-api/bible-api@npm:0.4.4"
@@ -65,6 +72,7 @@ __metadata:
     "@bible-api/bible-api-version-kjv1769": ^1.0.0
     "@bible-api/bible-api-version-tr1624": ^1.0.0
     "@bible-api/bible-api-version-tr1894": ^1.0.0-pre.0.1.2
+    "@bible-api/bible-api-version-vulgate": ^1.0.0
     "@types/node": ^20.6.2
     prettier: ^3.0.3
     typescript: ^5.2.2
