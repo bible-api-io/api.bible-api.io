@@ -5,6 +5,13 @@ __metadata:
   version: 6
   cacheKey: 8
 
+"@bible-api/bible-api-version-bg@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "@bible-api/bible-api-version-bg@npm:1.0.1"
+  checksum: 4ea433ccd9a79650ebf76ea7112eda8e12c7ff1fa3e41b5c44eed09cb74951b051cdd7d9af9870a443295eef533cfc8eb9a549d884e9379ed7574e84dfd80926
+  languageName: node
+  linkType: hard
+
 "@bible-api/bible-api-version-kjv1769@npm:^1.0.0":
   version: 1.0.0
   resolution: "@bible-api/bible-api-version-kjv1769@npm:1.0.0"
@@ -54,6 +61,7 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     "@bible-api/bible-api": ^0.4.4
+    "@bible-api/bible-api-version-bg": ^1.0.1
     "@bible-api/bible-api-version-kjv1769": ^1.0.0
     "@bible-api/bible-api-version-tr1624": ^1.0.0
     "@bible-api/bible-api-version-tr1894": ^1.0.0-pre.0.1.2
