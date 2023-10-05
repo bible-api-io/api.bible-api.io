@@ -8,6 +8,7 @@
     "@bible-api/bible-api": "^0.4.4",
     "@bible-api/bible-api-version-bg": "^1.0.1",
     "@bible-api/bible-api-version-kjv1769": "^1.0.0",
+    "@bible-api/bible-api-version-pce": "^1.0.0",
     "@bible-api/bible-api-version-tr1624": "^1.0.0",
     "@bible-api/bible-api-version-tr1894": "^1.0.0-pre.0.1.2",
     "@bible-api/bible-api-version-vulgate": "^1.0.0"
