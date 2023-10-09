@@ -19,10 +19,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bible-api/bible-api-version-pce@npm:^1.0.0-pre.2":
-  version: 1.0.0-pre.2
-  resolution: "@bible-api/bible-api-version-pce@npm:1.0.0-pre.2"
-  checksum: 5fa28f7a49035a6db32e119cea88da6fe9c3cd397d1e22656a4b34139682a0d99b2933b41e87f95d6c023b59f9335af91b09cd0a68671c608445b6fc8088f2a7
+"@bible-api/bible-api-version-pce@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "@bible-api/bible-api-version-pce@npm:1.0.1"
+  checksum: e08340a36d352cd2825b6d8d2eb32befe423b440ec2592fd1797e2c0da68b1dbce9d77d7b09476f369e4795d8b0b2f31419a4988092a6755ed6dcd6a5d6790c9
   languageName: node
   linkType: hard
 
@@ -47,10 +47,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bible-api/bible-api@npm:^0.4.4":
-  version: 0.4.4
-  resolution: "@bible-api/bible-api@npm:0.4.4"
-  checksum: 7903f84ff91c829d2458823afcf6b6fcaf3e42d9ee4b4924902cc23400652d55f057f0ca1eb8f1fbcf0ede48ac3aa8cab0f970a4d10d170a4ed58cae2e867bc5
+"@bible-api/bible-api@npm:^0.11.0":
+  version: 0.11.0
+  resolution: "@bible-api/bible-api@npm:0.11.0"
+  checksum: d6dbf1c110a0d8d5c37906dcede1f7dbe106d8c044eaee947f881f0959d5c7982b168cac37bcebb66322eee241b78bbdd6f5b2a674e535dfc803a01eba819d99
   languageName: node
   linkType: hard
 
@@ -74,10 +74,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@bible-api/bible-api": ^0.4.4
+    "@bible-api/bible-api": ^0.11.0
     "@bible-api/bible-api-version-bg": ^1.0.1
     "@bible-api/bible-api-version-kjv1769": ^1.0.0
-    "@bible-api/bible-api-version-pce": ^1.0.0-pre.2
+    "@bible-api/bible-api-version-pce": ^1.0.1
     "@bible-api/bible-api-version-tr1624": ^1.0.0
     "@bible-api/bible-api-version-tr1894": ^1.0.0-pre.0.1.2
     "@bible-api/bible-api-version-vulgate": ^1.0.0
